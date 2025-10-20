@@ -18,9 +18,6 @@ This project predicts telecom customer churn using an end-to-end modern data sta
 - Identified key churn indicators such as tenure, contract type, and online security.
 - Built a reproducible and scalable churn prediction pipeline.
 
-# Next Steps
-- Implement model tuning (scaling + cross-validation)
-- Test alternative algorithms (RandomForest, XGBoost)
 
 ---
 
